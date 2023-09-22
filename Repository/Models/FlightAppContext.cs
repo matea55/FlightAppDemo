@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace UserManager.Models;
+namespace Repository.Models;
 
 public partial class FlightAppContext : DbContext
 {
